@@ -1,0 +1,53 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategrey;
+}
+
+/*Class Sector*/
+.common {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    position: absolute;
+    color:darkslategrey;
+    background-color: #698d73;
+    border: solid 1px black;
+    color:black;
+}
+
+.header {
+    top:5px;
+    left: 5px;
+    height: 100px;
+    padding-left: 20px;
+    right: 5px;
+}
+
+.leftmenu {
+    top:160px;
+    bottom: 60px;
+    left: 5px;
+}
+
+.mainbody {
+    top: 140px;
+    left: 5px;
+    bottom: 150px;
+}
+
+.rightmenu {
+    top:160px;
+    bottom: 60px;
+    left: 110px;
+}
+
+.footer {
+    bottom: 10px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+}
+
+.subheader {
+    border: solid 1px black;
+    float: right;
+}
